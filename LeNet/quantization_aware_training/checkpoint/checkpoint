@@ -1,0 +1,2 @@
+model_checkpoint_path: "variable.ckpt-120000"
+all_model_checkpoint_paths: "variable.ckpt-120000"
